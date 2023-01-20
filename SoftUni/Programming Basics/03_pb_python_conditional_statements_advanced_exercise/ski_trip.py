@@ -9,7 +9,6 @@ president_apartment = 35
 price = 0
 nights = days_number - 1
 
-
 if days_number < 10:
     if room_type == "room for one person":
         price = room_for_one
