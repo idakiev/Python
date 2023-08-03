@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: RGB(150,150,150);
+}
+
+.more-bottom {
+    padding-bottom: 30px;
+}
+
+#header {
+        border: 1px solid RGB(135,157,122);
+        border-width: 1px 0;
+}
